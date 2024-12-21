@@ -17,7 +17,7 @@ title: Page title
 
 ## Contact us
 
-Zajac & Leroy Physiotherapie
+Zajac & Leroy Physio
 Mühlenstraße 2e
 52392 Niederzier
 

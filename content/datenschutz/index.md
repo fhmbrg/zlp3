@@ -62,7 +62,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kom
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Zajac & Leroy Physiotherapie\
+Zajac & Leroy Physio\
 Mühlenstraße 2e\
 52382 Niederzier
 
