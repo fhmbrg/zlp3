@@ -1,0 +1,19 @@
+#logo_image: uploads/logo.png
+logo_subtitle:
+dark_header: false
+mobile_view_width: 1100
+menuitems:
+  - title: Philosophie
+    link: /philosophie/
+  - title: Leistungen
+    link: /leistungen/
+  - title: Team
+    link: /team/
+#  - title: Kontakt & Öffungszeiten
+#    link: /kontakt/
+  - title: Aktuelles
+    link: /aktuelles/
+cta:
+  active: true
+  title: Kontakt & Öffungszeiten
+  link: /kontakt/

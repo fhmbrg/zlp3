@@ -1,0 +1,14 @@
+logo_image:
+menuitems:
+  - title: Impressum
+    link:  /impressum/
+  - title: Datenschutzerklärung
+    link:  /datenschutz/
+socials:
+  - title: Telefon
+    link: tel:+4924289058509
+    logo_image: /img/phone.svg
+  - title: E-Mail
+    link: mailto:info@zl-physio.de
+    logo_image: /img/email.svg
+#footer_text: This theme is open source. More info on [Github](https://github.com/jhvanderschee/hugobricks)!
