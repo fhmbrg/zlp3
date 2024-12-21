@@ -1,7 +1,7 @@
 favicon_image: /uploads/branding/chiropractic-physiotherapy-svgrepo-com.svg
 color_name: red
 sticky_header: true
-dark_header: true
+dark_header: false
 dark_footer: true
 customcursor: false
 intersectionobserver: true
