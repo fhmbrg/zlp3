@@ -9,13 +9,11 @@ draft: false
 {{< breadcrumbs >}}
 ## Therapie und Training
 
-Für uns ist es wichtig eine langanhaltende Besserung Ihrer Beschwerden zu erzielen.
+Für uns ist es wichtig, eine langanhaltende Besserung Ihrer Beschwerden zu erzielen.
 
-Unsere Philosophie ist es den Erfolg der Behandlung durch ein funktionelles Training zu unterstützen und zu festigen.
+Unsere Philosophie ist es den Erfolg der Behandlung durch ein funktionelles Training zu unterstützen und zu festigen. Ziel des funktionellen Trainings ist es, anstelle einzelner, isolierter Muskeln komplexe Bewegungsabläufe zu trainieren und sich dabei an Bewegungen aus dem täglichen Leben zu orientieren.
 
-Der Sinn des funktionellen Trainings ist komplexe Bewegungsabläufe, anstelle von einzelner, isolierter Muskulatur, zu trainieren. Diese orientieren sich an Bewegungen aus dem täglichen Leben.
+Hierzu setzen wir das eigenes Körpergewicht des Patienten und Hilfsmittel aus dem Leistungssport ein.
 
-Hierbei machen wir Gebrauch des eigenen Körpergewichts, sowie Hilfsmitteln aus dem Leistungssport.
-
-Das herkömmliche Fitnessstudio ist damit Ade!
+Verabschieden Sie sich also vom traditionellen Fitnessstudio!
 {{< /brick_wide >}}

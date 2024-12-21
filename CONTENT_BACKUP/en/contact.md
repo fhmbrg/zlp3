@@ -1,26 +1,28 @@
 ---
-title: Contact us
+title: Kontaktieren Sie uns
 ---
 {{< brick_title >}}
 
 {{< breadcrumbs >}}
 
-# Contact us
+## Kontaktieren Sie uns
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Zajac & Leroy Physiotherapie\
+Mühlenstraße 2a\
+52382 Niederzier
+
+☎️  [02428 / 9 058 509](tel:+4924289058509)
 
 {{< /brick_title >}}
 {{< brick_contact >}}
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
+Zajac & Leroy Physiotherapie\
 Mühlenstraße 2a\
 52382 Niederzier
 
 info@zl-physio.de\
 +49 2428 9 058 509
 
-{{< socialbuttons >}}
 
 {{< /brick_contact >}}
 {{< brick_map >}}{{< /brick_map >}}
