@@ -7,12 +7,12 @@ title: Elements
 
 # Elements
 
-Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. 
+Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci.
 
 {{< /brick_title >}}
 {{< brick_wide >}}
 
-Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. Etiam laoreet justo neque. Aenean nec porta mauris, ut luctus nibh. Morbi sed quam rhoncus felis tempus porttitor a nec nisl. Nulla facilisi. In suscipit velit sed lacus condimentum, at [fermentum](https://www.google.com) nulla faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. Etiam laoreet justo neque. Aenean nec porta mauris, ut luctus nibh. Morbi sed quam rhoncus felis tempus porttitor a nec nisl. Nulla facilisi. In suscipit velit sed lacus condimentum, at [fermentum](https://www.google.com) nulla faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
 ## Heading 2
 
@@ -20,7 +20,7 @@ Nam elementum bibendum augue quis hendrerit. Sed lectus neque, efficitur id veli
 
 ### Heading 3
 
-Proin ac *lobortis* tellus, ut [maximus](https://www.google.com) magna. Aliquam facilisis risus sit amet augue congue varius. Duis augue nulla, aliquam vitae efficitur eget, bibendum et tellus. Aenean quis sagittis felis. 
+Proin ac *lobortis* tellus, ut [maximus](https://www.google.com) magna. Aliquam facilisis risus sit amet augue congue varius. Duis augue nulla, aliquam vitae efficitur eget, bibendum et tellus. Aenean quis sagittis felis.
 
 #### Heading 4
 
@@ -47,22 +47,22 @@ Donec rutrum felis dignissim nisl tincidunt, sit amet interdum dolor ornare. Cra
 
 ---
 
-## Unordered list 
+## Unordered list
 
-- Ut lacinia felis [luctus tincidunt](https://www.google.com) vehicula. 
-- Ut eget lacinia enim, non consectetur ligula. 
-- Vivamus tincidunt eros tristique, gravida lorem vitae, tempus justo. 
-- Maecenas neque mi, dignissim a dignissim a, mollis eu arcu. 
+- Ut lacinia felis [luctus tincidunt](https://www.google.com) vehicula.
+- Ut eget lacinia enim, non consectetur ligula.
+- Vivamus tincidunt eros tristique, gravida lorem vitae, tempus justo.
+- Maecenas neque mi, dignissim a dignissim a, mollis eu arcu.
 - Pellentesque viverra congue sapien, ut ultricies nibh scelerisque vel. Donec consectetur ullamcorper gravida. Nullam leo felis, sollicitudin eget ex id, congue consequat enim. Morbi et condimentum ex. Donec semper nibh dolor.
 
 ---
 
-## Ordered list 
+## Ordered list
 
-1. Ut lacinia felis luctus tincidunt vehicula. 
-1. Ut eget lacinia enim, non consectetur ligula. 
-1. Vivamus tincidunt eros tristique, gravida lorem vitae, tempus justo. 
-1. Maecenas neque mi, dignissim a dignissim a, mollis eu arcu. 
+1. Ut lacinia felis luctus tincidunt vehicula.
+1. Ut eget lacinia enim, non consectetur ligula.
+1. Vivamus tincidunt eros tristique, gravida lorem vitae, tempus justo.
+1. Maecenas neque mi, dignissim a dignissim a, mollis eu arcu.
 1. Pellentesque viverra congue sapien, ut ultricies nibh scelerisque vel. Donec consectetur ullamcorper gravida. Nullam leo felis, sollicitudin eget ex id, congue consequat enim. Morbi et condimentum ex. Donec semper nibh dolor.
 
 ---
@@ -81,7 +81,7 @@ A grayscale (colorized) image:
 
 ## Map
 
-{{< map "/uploads/map.png" "https://www.google.com/maps/place/52%C2%B022'20.1%22N+4%C2%B054'00.4%22E/@52.372253,4.8991072,18z/data=!3m1!4b1!4m4!3m3!8m2!3d52.372253!4d4.9001?entry=ttu" >}}
+{{< map "/uploads/map.png" "https://www.google.com/maps/dir//M%C3%BChlenstra%C3%9Fe+2e,+52382+Niederzier/@50.8764809,6.3880222,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47bf432875f7f7bf:0x9eb666fc3e9c51ca!2m2!1d6.470594!2d50.87651?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" >}}
 
 ---
 

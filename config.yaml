@@ -1,4 +1,4 @@
-baseURL: https://zl-physio.de
+baseURL: https://fhmbrg.github.io/zlp3
 theme: hugobricks
 ### defaultContentLanguage: en
 assetDir: static

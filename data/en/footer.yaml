@@ -9,6 +9,6 @@ socials:
     link: tel:+4924289058509
     logo_image: /img/phone.svg
   - title: E-Mail
-    link: mailto:info@zl-physio.de
+    link: mailto:info@zl-physio.de?subject=Kontaktanfrage%20via%20Website
     logo_image: /img/email.svg
 #footer_text: This theme is open source. More info on [Github](https://github.com/jhvanderschee/hugobricks)!
