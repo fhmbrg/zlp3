@@ -1,7 +1,5 @@
 ---
 title: 'Leistungen'
-ShowToc: true
-TocOpen: true
 tags: ["Physiotherapie", "Therapie", "Lymphdrainage", "Lymphknoten", "Funktionsstörungen", "Gelenke", "Verspannungen", "Stoffwechsel", "Gewebsflüssigkeit", "Krebserkrankungen", "Verletzung", "Unfall", "Massage", "Kinesio-Taping", "Bobath", "Schlaganfall", "Säugling", "Kind", "Erwachsene", "Osteopathie", "Blockade", "Bandscheibenvorfall", "Hexenschuss", "Tinnitus", "Inkontinenz"]
 draft: false
 ---
