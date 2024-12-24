@@ -31,7 +31,7 @@ Das Lymphsystem hat die Aufgabe, Flüssigkeiten abzutransportieren und zu filter
 * Verletzungen durch Unfälle
 * erkrankte Lymphgefäße
 
-Durch spezielle Massagetechniken richtet sich der Therapeut auf d
+Mit speziellen Massagetechniken zielt der Therapeut darauf ab, den Abfluss der Lymphflüssigkeit zu verbessern. Das Anspannen der Muskeln fördert den Lymphabfluss, weshalb ein zusätzliches aktives Training sehr zu empfehlen ist.
 
 ## Sportphysiotherapie
 

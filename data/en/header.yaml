@@ -3,17 +3,25 @@ logo_subtitle: Physio
 dark_header: false
 mobile_view_width: 1100
 menuitems:
+  - title: Aktuelles
+    link: /aktuelles/
+    items:
+      - title: Stellenausschreibung
+        link: /stellenausschreibung/
   - title: Philosophie
     link: /philosophie/
   - title: Leistungen
     link: /leistungen/
   - title: Team
     link: /team/
-#  - title: Kontakt & Öffungszeiten
-#    link: /kontakt/
-  - title: Aktuelles
-    link: /aktuelles/
+  - title: Kontakt
+    link: /kontakt/
+    items:
+      - title: Öffnungszeiten
+        link: /oeffnungszeiten/
+      - title: Termine
+        link: /termine/
 cta:
-  active: true
+  active: false
   title: Kontakt, Öffungszeiten & Termine
   link: /kontakt/

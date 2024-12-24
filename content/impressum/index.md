@@ -5,85 +5,74 @@ title: Impressum
 
 {{< breadcrumbs >}}
 
-# Impressum
+Max Mustermann\
+Musterladen\
+Musterstraße 111\
+Gebäude 44\
+90210 Musterstadt
 
-Zajac & Leroy Physio\
-Mühlenstraße 2e\
-52382 Niederzier
+Handelsregister: HRB 999999\
+Registergericht: Amtsgericht Musterstadt
 
 ## Kontakt
 
-Telefon: +49 (0) 2428/9 058 509\
-Telefax: +49 (0) 2428/9 058 508\
+Telefon: +49 (0) 2428 9 058 509\
+Telefax: +49 (0) 2428 9 058 508\
 E-Mail: info@zl-physio.de
 
 ## Umsatzsteuer-ID
 
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
+Umsatzsteuer-Identifikationsnummer gemäß §  27 a Umsatzsteuergesetz:\
 DE999999999
 
 ## Aufsichtsbehörde
 
-Düsseldorf: Gesundheitsamt Heinsberg\
-Kreis Heinsberg\
-Untere Gesundheitsbehörde\
-Valkenburger Straße 45\
-52525 Heinsberg
+Musterbehörde Musterstadt\
+Musterweg 10\
+90210 Musterstadt
 
-<a href="http://Link zur Website der Aufsichtsbehörde" target="_blank" rel="noopener noreferrer">http://Link zur Website der Aufsichtsbehörde</a>
+<a href="http://www.meine-aufsichtsbehörde.de" target="_blank" rel="noopener noreferrer">http://www.meine-aufsichtsbehörde.de</a>
 
 ## Berufsbezeichnung und berufsrechtliche Regelungen
 
-**Berufsbezeichnung:**
-
+Berufsbezeichnung:\
 Physiotherapeuten
+Zuständige Kammer:\
+Name und Anschrift der zuständigen Kammer
 
-**Zuständige Kammer:**
-
-Anschrift\
-der zuständigen Kammer
-
-**Verliehen in:**
-
-Die Niederlande
+Verliehen in:\
+Land in dem die Berufsbezeichnung verliehen wurde
 
 Es gelten folgende berufsrechtliche Regelungen:
 
 Berufsrechtliche Regelung 1\
-einsehbar unter: <a href="http://Link zur Berufsrechtliche Regelung 1" target="_blank" rel="noopener noreferrer">http://Link zur Berufsrechtliche Regelung 1</a>
+einsehbar unter: <a href="https://links-zur-beruflichen-regelung-1" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-1</a>
 
 Berufsrechtliche Regelung 2\
-einsehbar unter: <a href="http://Link zur Berufsrechtliche Regelung 2" target="_blank" rel="noopener noreferrer">http://Link zur Berufsrechtliche Regelung 2</a>
+einsehbar unter: <a href="https://links-zur-beruflichen-regelung-2" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-2</a>
 
 Berufsrechtliche Regelung 3\
-einsehbar unter: <a href="http://Link zur Berufsrechtliche Regelung 3" target="_blank" rel="noopener noreferrer">http://Link zur Berufsrechtliche Regelung 3</a>
+einsehbar unter: <a href="https://links-zur-beruflichen-regelung-3" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-3</a>
 
 Berufsrechtliche Regelung 4\
-einsehbar unter: <a href="http://Link zur Berufsrechtliche Regelung 4" target="_blank" rel="noopener noreferrer">http://Link zur Berufsrechtliche Regelung 4</a>
+einsehbar unter: <a href="https://links-zur-beruflichen-regelung-4" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-4</a>
 
 Berufsrechtliche Regelung 5\
-einsehbar unter: <a href="http://Link zur Berufsrechtliche Regelung 5" target="_blank" rel="noopener noreferrer">http://Link zur Berufsrechtliche Regelung 5</a>
+einsehbar unter: <a href="https://links-zur-beruflichen-regelung-5" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-5</a>
 
-## EU-Streitschlichtung
+## Angaben zur Berufshaftpflichtversicherung
 
-Die Europä;ische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href="https://ec.europa.eu/consumers/odr/" target="_blank" rel="noopener noreferrer">https://ec.europa.eu/consumers/odr/</a>. Unsere E-Mail-Adresse finden Sie oben im Impressum.
+**Name und Sitz des Versicherers:**\
+Beispiel Versicherung AG\
+Musterweg 10\
+90210 Musterstadt
 
-## Verbraucher&shy;streit&shy;beilegung/Universal&shy;schlichtungs&shy;stelle
+**Geltungsraum der Versicherung:**\
+Deutschland
+
+## Verbraucherstreitbeilegung/Universalschlichtungsstelle
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
-## Zentrale Kontaktstelle nach dem Digital Services Act - DSA (Verordnung (EU) 2022/265)
-
-Unsere zentrale Kontaktstelle für Nutzer und Behörden nach Art. 11, 12 DSA erreichen Sie wie folgt:
-
-E-Mail: info@zl-physio.de\
-Telefon: tel:02428/9 058 509
-
-Sonstige Kontaktwege:
-
-Fax: 02428/9 058 508
-
-Die für den Kontakt zur Verfügung stehende Sprache ist: Deutsch.
-
-Quelle: <a href="https://www.e-recht24.de/impressum-generator.html">https://www.e-recht24.de/impressum-generator.html
+Quelle: [https://www.e-recht24.de/impressum-generator.html](https://www.e-recht24.de/impressum-generator.html)
 {{< /brick_wide >}}

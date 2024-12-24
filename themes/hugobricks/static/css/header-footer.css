@@ -7,8 +7,8 @@
 .preheader .container {display: flex; justify-content: space-between;}
 .preheader .container a.icon {text-decoration: none; margin-right: 2rem;}
 .preheader .container a.icon img {
-    height: 0.8em; 
-    display: inline-block; 
+    height: 0.8em;
+    display: inline-block;
     vertical-align: middle;
     margin-right: 0.2rem;
     position: relative;
@@ -89,11 +89,11 @@ header .navnav > ul > li:hover > ul {
     pointer-events: all;
 }
 header .navnav > ul > li.haschildren > a::after {
-    content:""; 
-    width: 0.3rem; 
-    height: 0.3rem; 
-    border: 0.1rem solid var(--textDarker); 
-    border-left: 0; 
+    content:"";
+    width: 0.3rem;
+    height: 0.3rem;
+    border: 0.1rem solid var(--textDarker);
+    border-left: 0;
     border-top: 0;
     margin-left: 0.4rem;
     position: relative;
@@ -138,7 +138,7 @@ header.dark a.logo, body.transparent_header header:not(.sticky) a.logo,
 header.dark .navnav > ul > li > a, body.transparent_header header:not(.sticky) .navnav > ul > li > a {color: white;}
 header.dark .navnav > ul > li::after, body.transparent_header header:not(.sticky) .navnav > ul > li::after {background: white;}
 body.mobilemenu header .navnav > ul > li.haschildren > a::after,
-header.dark .navnav > ul > li.haschildren > a::after, 
+header.dark .navnav > ul > li.haschildren > a::after,
 body.transparent_header header:not(.sticky) .navnav > ul > li.haschildren > a::after {border-color: white;}
 header.dark #togglemenu span,
 header.dark > .container.has_cta > div:nth-child(3) > a > img,
@@ -190,16 +190,16 @@ footer.dark ul li a:not(.button)::after {background: rgba(255,255,255,0.5);}
 /*------------------------*/
 
 #togglemenu {
-    display: none; 
-    border: 0; 
-    color: transparent; 
-    overflow: hidden; 
-    width: 3rem; 
-    height: 3rem; 
-    vertical-align: middle; 
+    display: none;
+    border: 0;
+    color: transparent;
+    overflow: hidden;
+    width: 3rem;
+    height: 3rem;
+    vertical-align: middle;
     margin-right: -0.75rem;
     box-shadow: none!important;
-    right: clamp(1rem,4vw,3rem); 
+    right: clamp(1rem,4vw,3rem);
     transition: none;
     position: absolute;
     background: none;
@@ -212,7 +212,7 @@ body.mobilemenu header .nav {display: grid; transition: grid-template-rows 0.3s 
 body.mobilemenu header > div.container {display: grid; grid-template-areas: "logo cta" "menu menu";}
 body.mobilemenu header > div.container > div:nth-child(1) {grid-area: logo;}
 body.mobilemenu header > div.container > div.nav {
-    grid-area: menu; 
+    grid-area: menu;
     position: fixed;
     background: var(--textDark);
     color: white;
@@ -231,10 +231,10 @@ body.mobilemenu header .navnav > ul {flex-direction: column; gap: 0rem; text-ali
 body.mobilemenu.menushown header .navnav > ul:nth-child(2) {margin-bottom: 2rem; display: block;}
 body.mobilemenu header .navnav > ul > li::after {content: none;}
 body.mobilemenu header .navnav > ul > li > ul {
-    position: relative; 
-    box-shadow: none; 
-    margin: 0; 
-    padding: 0; 
+    position: relative;
+    box-shadow: none;
+    margin: 0;
+    padding: 0;
     text-align: left;
     opacity: 1;
     transform: translateY(0);

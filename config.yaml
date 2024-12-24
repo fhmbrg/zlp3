@@ -1,4 +1,4 @@
-baseURL: https://fhmbrg.github.io/zlp3
+baseURL: https://fhmbrg.github.io/zlp3/
 theme: hugobricks
 ### defaultContentLanguage: en
 assetDir: static

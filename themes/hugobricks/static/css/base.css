@@ -38,13 +38,13 @@ ol {margin-left: 2rem;}
 hr {margin: 3.5rem 0; height: 1px; background: rgba(0,0,0,0.1); border: 0;}
 p img, p img:last-child {border-radius: 1rem; overflow: hidden; margin-block: 2.25rem;}
 pre {
-    overflow: auto; 
-    background: var(--light); 
-    padding: 0.75rem 1rem; 
-    border: 0.1rem solid var(--light); 
-    border-radius: 0.25rem; 
+    overflow: auto;
+    background: var(--light);
+    padding: 0.75rem 1rem;
+    border: 0.1rem solid var(--light);
+    border-radius: 0.25rem;
     font-size: 0.95rem;
-    white-space: pre-wrap; 
+    white-space: pre-wrap;
 }
 blockquote {font-style: italic; border-left: 0.25rem solid var(--borderMedium); padding-left: 1.25rem;}
 video, audio {width: 100%;}
@@ -68,7 +68,7 @@ h1, h2, a.logo {font-family: var(--fontTitles);}
 /* logo
 /*------------------------*/
 
-a.logo {font-size: 1.8rem; font-weight: bold; text-decoration: none; color: var(--textDark);}
+a.logo {font-size: 1.2rem; font-weight: bold; text-decoration: none; color: var(--textDark);}
 a.logo img {height: 3rem;}
 a.logo img.inline {height: 2rem;}
 a.logo > div {display: flex; gap: 0.8rem; align-items: center;}
@@ -109,11 +109,11 @@ section.stickstofooter + footer {margin-top: 0; border-top: 0;}
 .map:not(section) {aspect-ratio: 2.25; width: 100%; border-radius: 1rem;}
 .map:not(section) {position: relative; background-position: center calc(50% + 2rem); background-repeat: repeat;}
 .map:not(section)::after {
-    content: ""; 
-    width: 100%; 
-    height: 100%; 
-    background: url(/img/marker.svg) center center / auto 4rem no-repeat; 
-    left: 0; 
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: url(/img/marker.svg) center center / auto 4rem no-repeat;
+    left: 0;
     top: 0;
     position: absolute;
     display: block;
@@ -144,13 +144,13 @@ input, textarea, select {
     border-radius: 0.25rem;
 }
 textarea {resize: vertical; height: 9rem;}
-input[type="checkbox"], input[type="radio"] {margin-right: 0.5rem; cursor: pointer;} 
+input[type="checkbox"], input[type="radio"] {margin-right: 0.5rem; cursor: pointer;}
 form > div.submit {padding-top: 0.55rem;}
 form h3 {padding-top: 0; padding-bottom: 1rem;}
 label.inborder {
-    position: absolute; 
-    background: white; 
-    font-size: 0.85rem; 
+    position: absolute;
+    background: white;
+    font-size: 0.85rem;
     line-height: 1;
     padding: 0 0.25rem;
     margin-left: 0.6rem;
@@ -174,7 +174,7 @@ div.box label.inborder::after {
 /*------------------------*/
 
 .button, button {
-    background: var(--accent); 
+    background: var(--accent);
     color: white;
     text-decoration: none;
     padding: 0.7em 1.25em;
@@ -194,16 +194,16 @@ div.box label.inborder::after {
 .button.secondary {background: var(--textDark);}
 .button.secondary.ghost {background: transparent; color: var(--textDark); box-shadow: inset 0 0 0 0.1rem var(--textDark);}
 .button.icon {
-    padding: 0; 
-    position: relative; 
-    display: flex; 
-    justify-content: center; 
+    padding: 0;
+    position: relative;
+    display: flex;
+    justify-content: center;
     align-items: center;
     aspect-ratio: 1;
     width: 2.25rem;
 }
 .button.icon img {
-    width: calc(100% - 1.25em); 
+    width: calc(100% - 1.25em);
     height: calc(100% - 1.25em);
     filter: invert(1);
 }
@@ -220,7 +220,7 @@ ul.buttons.social .button {background: var(--textDark);}
 
 section.bgimage .overlay {position: absolute; left: 0; top: 0; width: 100%; height: 100%; z-index: 1; background: rgba(0,0,0,0.32);}
 section.bgimage .bgimage {position: relative; display: flex; flex-direction: column; justify-content: center;}
-section.bgimage .container {position: relative; z-index: 2; color: white; padding-top: 5.5rem; padding-bottom: 6rem;} 
+section.bgimage .container {position: relative; z-index: 2; color: white; padding-top: 5.5rem; padding-bottom: 6rem;}
 section.bgimage .container h1,
 section.bgimage .container h2 {color: white;}
 section.bgimage h1 + p {padding-top: 0;}
@@ -274,17 +274,17 @@ ul.people ul.buttons {justify-content: center;}
 /*------------------------*/
 
 ul.tabs {
-    display: flex; 
+    display: flex;
     align-items: flex-end;
-    margin: 0 0 1.5rem; 
-    gap: 2rem; 
-    border-bottom: 0.04rem solid rgba(0,0,0,0.15); 
+    margin: 0 0 1.5rem;
+    gap: 2rem;
+    border-bottom: 0.04rem solid rgba(0,0,0,0.15);
     padding-top: 2rem;
 }
 ul.tabs li {list-style: none; line-height: 1.3;}
 ul.tabs li a {
-    text-decoration: none; 
-    color: var(--textDark); 
+    text-decoration: none;
+    color: var(--textDark);
     line-height: 1.15;
     font-size: 1.25rem;
     position: relative;
@@ -339,7 +339,7 @@ details summary {
     position: relative;
     display: block;
     cursor: pointer;
-    padding: 0.35rem 2rem 0.25rem 0; 
+    padding: 0.35rem 2rem 0.25rem 0;
     transition: all 0.15s ease-in-out;
 }
 details summary::after {
@@ -357,7 +357,7 @@ details summary::after {
 }
 details summary::-webkit-details-marker,
 details summary::marker {
- display: none; 
+ display: none;
  content: "";
 }
 details + details {border-top: 0; margin-top: -1.7rem;}
@@ -414,7 +414,7 @@ details[open]:not(.closing) summary::after {
     position: absolute;
     top: 0;
     left: 0;
-} 
+}
 .shortcode-vimeo .playbutton {
     position: absolute;
     width: 6rem;
@@ -454,4 +454,3 @@ details[open]:not(.closing) summary::after {
 .meta ul li {display: flex;}
 .meta ul li::before {content: ","; margin-right: 0.4rem;}
 .meta ul li:first-child:before {content: none;}
-

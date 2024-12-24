@@ -3,8 +3,6 @@ title: Home
 ---
 {{< brick_wide >}}
 
-{{< breadcrumbs >}}
-
 # Willkommen 👋 bei der Physiotherapie Zajac & Leroy
 
 Auf den folgenden Seiten möchten wir unsere Physiotherapie Praxis vorstellen und Ihnen die Gelegenheit geben, sich in aller Ruhe bei uns umzusehen. Dabei können Sie sich eine Übersicht unserer Leistungen, sowie den Fachgebieten unseres Teams verschaffen.
