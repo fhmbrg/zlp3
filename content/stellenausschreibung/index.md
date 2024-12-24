@@ -1,8 +1,8 @@
 ---
-title: 'Offene Stellen'
-color_name: blue
+title: 'Stellenausschreibung'
+dark_header: true
+dark_footer: true
 tags: ["Vakanzen", "Stellenangebot", "Jobangebot"]
-draft: false
 ---
 
 {{< brick_wide >}}
@@ -11,24 +11,12 @@ draft: false
 
 Gesucht werden Physiotherapeut:innen (weiblich/männlich/divers).
 
-Ihren Qualifikationen sollten folgendes umfassen:
-
-* Physiotherapeut Bc. (NL)
-* Manualtherapeut M.Sc. (NL)
-* Lymphdrainage
-* Sportphysiotherapie Master
-
-Weiterhin - und darauf legen wir ausgesprochenen Wert - bringen sie folgende Kompetenzen mit ein:
-
-* Trinkfest - wird in einem 1:1 Contest auf Herz und Leber überprüft
-* Zäh wie Leder
-* Hart wie Krupp-Stahl
-* Herausragende Kochkünste - wir sind Naschkatzen
+Text der Stellenausschreibung...
 
 Nutzen Sie bitte den folgenden Button um Ihre ***aussagekräftige Bewerbung*** an unser Assessment Center zu richten:
 
 <center>
-{{< button "Don't be a pussy" "mailto:dont-be-a-pussy@zl-physio.de" >}}
+{{< button "Be part of us" "mailto:dont-be-a-pussy@zl-physio.de" >}}
 </center>
 
 {{< /brick_wide >}}
