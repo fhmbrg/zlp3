@@ -7,7 +7,7 @@ title: Termine
 
 ## Termine
 
-Ihre **individuellen Termine** können Sie mit unseren [Mitarbeiterinnen der Verwaltung](/team/) abstimmen.
+Ihre **individuellen Termine** können Sie mit unseren [**Mitarbeiterinnen der Verwaltung**](/team/) abstimmen.
 
 Bitte beachten Sie, dass ein Termin, den Sie nicht wahrnehmen können, **mindestens einen Tag im Voraus abgesagt werden muss**, andernfalls sind wir angehalten diesen als wahrgenommen zu verbuchen.
 
