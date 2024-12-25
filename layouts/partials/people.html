@@ -1,0 +1,35 @@
+<ul class="grid people">
+    {{- range (index page.Site.Data page.Site.Language.Lang).people -}}
+        <li>
+            <div class="box">
+            <img src="{{ .image }}" alt="{{ .name }}" class="avatar colorize_image" />
+            <h3>{{- .name -}}</h3>
+            <div class="function0">{{- .function0 | safeHTML -}}</div>
+            <div class="function1">{{- .function1 | safeHTML -}}</div>
+            <div class="function2">{{- .function2 | safeHTML -}}</div>
+            <div class="function3">{{- .function3 | safeHTML -}}</div>
+            <div class="function4">{{- .function4 | safeHTML -}}</div>
+            <div class="function5">{{- .function5 | safeHTML -}}</div>
+            <div class="function6">{{- .function6 | safeHTML -}}</div>
+            <div class="function7">{{- .function7 | safeHTML -}}</div>
+            <div class="function8">{{- .function8 | safeHTML -}}</div>
+            <div class="function9">{{- .function9 | safeHTML -}}</div>
+            <p>{{- .description | safeHTML -}}</p>
+            <ul class="buttons">
+                {{- if .phone -}}
+                    <li><a href="tel:{{ replace .phone ` ` `` }}" class="button icon"><img src="/img/phone.svg" alt="{{ .phone }}" /></a></li>
+                {{- end -}}
+                {{- if .email -}}
+                    <li><a href="mailto:{{ .email }}" class="button icon"><img src="/img/email.svg" alt="{{ .email }}" /></a></li>
+                {{- end -}}
+                {{- if .linkedin -}}
+                    <li><a href="{{ .linkedin }}" class="button icon" target="_blank"><img src="/img/linkedin.svg" alt="{{ .linkedin }}" /></a></li>
+                {{- end -}}
+                {{- if .website -}}
+                    <li><a href="{{ .website }}" class="button icon" target="_blank"><img src="/img/world.svg" alt="{{ .website }}" /></a></li>
+                {{- end -}}
+            </ul>
+            </div>
+        </li>
+    {{- end -}}
+</ul>
