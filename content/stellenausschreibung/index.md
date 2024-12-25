@@ -11,12 +11,14 @@ tags: ["Vakanzen", "Stellenangebot", "Jobangebot"]
 
 Gesucht werden Physiotherapeut:innen (weiblich/männlich/divers).
 
-Text der Stellenausschreibung...
+Anforderungsprofile...
 
-Nutzen Sie bitte den folgenden Button um Ihre ***aussagekräftige Bewerbung*** an unser Assessment Center zu richten:
+Unsere Leistungen...
+
+Bitte nutzen Sie den folgenden Button, um Ihre ***ausführliche Bewerbung*** an unser Assessment Center zu senden:
 
 <center>
-{{< button "Be part of us" "mailto:dont-be-a-pussy@zl-physio.de" >}}
+{{< button "Be part of us" "mailto:hire-me@zl-physio.de" >}}
 </center>
 
 {{< /brick_wide >}}

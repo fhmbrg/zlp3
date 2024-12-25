@@ -1,28 +1,100 @@
 - name: Zdobek Zajac
-  function: Physiotherapeut Bc. (NL)
+  function0: Physiotherapeut Bc. (NL)
+  function1:
+  function2:
+  function3:
+  function4:
+  function5:
+  function6:
+  function7:
+  function8:
+  function9:
   image: /uploads/photos/avatars/male_profile_picture.png
 - name: Michael Leroy
-  function: Physiotherapeut Bc. (NL), Manualtherapeut M.Sc. (NL), Lymphdrainage, Sportphysiotherapie, Dozent für Physiotherapie an der Hogeschool Zuyd in Heerlen
+  function0: Physiotherapeut Bc. (NL)
+  function1: Manualtherapeut M.Sc. (NL)
+  function2: Lymphdrainage
+  function3: Sportphysiotherapie
+  function4: Dozent für Physiotherapie an der Hogeschool Zuyd in Heerlen
+  function5:
+  function6:
+  function7:
+  function8:
+  function9:
   image: /uploads/photos/avatars/male_profile_picture.png
 - name: Jolante Zajac
-  function: Physiotherapeutin Bc. (PL), Bobath-Therapeutin Kinder und Erwachsene, Lymphdrainage
+  function0: Physiotherapeutin Bc. (PL)
+  function1: Bobath-Therapeutin Kinder und Erwachsene
+  function2: Lymphdrainage
+  function3:
+  function4:
+  function5:
+  function6:
+  function7:
+  function8:
+  function9:
   image: /uploads/photos/avatars/female_profile_picture.png
 - name: Kai Witzel
-  function: Physiotherapeut Bc (NL), Sportphysiotherapie Master (D), Lymphdrainage
+  function0: Physiotherapeut Bc (NL)
+  function1: Sportphysiotherapie Master (D)
+  function2: Lymphdrainage
+  function3:
+  function4:
+  function5:
+  function6:
+  function7:
+  function8:
+  function9:
   image: /uploads/photos/avatars/male_profile_picture.png
 - name: Burak Dokuyucu
-  function: Physiotherapeut Bc (NL), Sportphysiotherapie Master (D)
+  function0: Physiotherapeut Bc (NL)
+  function1: Sportphysiotherapie Master (D)
+  function2:
+  function3:
+  function4:
+  function5:
+  function6:
+  function7:
+  function8:
+  function9:
   image: /uploads/photos/avatars/male_profile_picture.png
 - name: Moritz Weyergraf
-  function: Physiotherapeut Bc (NL), Lymphdrainage
+  function0: Physiotherapeut Bc (NL)
+  function1: Lymphdrainage
+  function2:
+  function3:
+  function4:
+  function5:
+  function6:
+  function7:
+  function8:
+  function9:
   image: /uploads/photos/avatars/male_profile_picture.png
 - name: Sandra Popp
-  function: Verwaltung
+  function0: Verwaltung
+  function1:
+  function2:
+  function3:
+  function4:
+  function5:
+  function6:
+  function7:
+  function8:
+  function9:
   description: 02428/9 058 509
   phone: 02428/9 058 509
   image: /uploads/photos/avatars/female_profile_picture.png
 - name: Birgit Wolff
-  function: Verwaltung
+  function0: Verwaltung
+  function1:
+  function2:
+  function3:
+  function4:
+  function5:
+  function6:
+  function7:
+  function8:
+  function9:
   description: 02428/9 058 509
   phone: 02428/9 058 509
   image: /uploads/photos/avatars/female_profile_picture.png

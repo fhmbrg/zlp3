@@ -5,11 +5,9 @@ title: Impressum
 
 {{< breadcrumbs >}}
 
-Max Mustermann\
-Musterladen\
-Musterstraße 111\
-Gebäude 44\
-90210 Musterstadt
+Zajac & Leroy Physio\
+Mühlenstraße 2e\
+52382 Niederzier
 
 Handelsregister: HRB 999999\
 Registergericht: Amtsgericht Musterstadt
@@ -35,29 +33,30 @@ Musterweg 10\
 
 ## Berufsbezeichnung und berufsrechtliche Regelungen
 
-Berufsbezeichnung:\
+**Berufsbezeichnung:**\
 Physiotherapeuten
-Zuständige Kammer:\
+
+**Zuständige Kammer:**\
 Name und Anschrift der zuständigen Kammer
 
-Verliehen in:\
-Land in dem die Berufsbezeichnung verliehen wurde
+**Verliehen in:**\
+Die Niederlande
 
 Es gelten folgende berufsrechtliche Regelungen:
 
-Berufsrechtliche Regelung 1\
+**Berufsrechtliche Regelung 1**\
 einsehbar unter: <a href="https://links-zur-beruflichen-regelung-1" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-1</a>
 
-Berufsrechtliche Regelung 2\
+**Berufsrechtliche Regelung 2**\
 einsehbar unter: <a href="https://links-zur-beruflichen-regelung-2" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-2</a>
 
-Berufsrechtliche Regelung 3\
+**Berufsrechtliche Regelung 3**\
 einsehbar unter: <a href="https://links-zur-beruflichen-regelung-3" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-3</a>
 
-Berufsrechtliche Regelung 4\
+**Berufsrechtliche Regelung 4**\
 einsehbar unter: <a href="https://links-zur-beruflichen-regelung-4" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-4</a>
 
-Berufsrechtliche Regelung 5\
+**Berufsrechtliche Regelung 5**\
 einsehbar unter: <a href="https://links-zur-beruflichen-regelung-5" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-5</a>
 
 ## Angaben zur Berufshaftpflichtversicherung
