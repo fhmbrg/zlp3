@@ -73,5 +73,5 @@ Deutschland
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
-Quelle: [https://www.e-recht24.de/impressum-generator.html](https://www.e-recht24.de/impressum-generator.html)
+Quelle: [https://www.e-recht24.de](https://www.e-recht24.de)
 {{< /brick_wide >}}

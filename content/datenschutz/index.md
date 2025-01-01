@@ -68,6 +68,7 @@ Mühlenstraße 2e\
 52382 Niederzier
 
 Telefon: +49 (0) 2428 9 058 509\
+Fax:     +49 (0) 2428 9 058 508\
 E-Mail: info@zl-physio.de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail- Adressen o. Ä.) entscheidet.
